@@ -24,6 +24,7 @@ O projeto utiliza o que há de mais moderno no desenvolvimento web:
 * **Servidor Express Integrado:** Configuração de servidor robusto para lidar com o fluxo de renderização e requisições.
 * **Programação Reativa:** Uso de **RxJS** para gerenciamento de estados e fluxos de dados de forma assíncrona.
 * **Qualidade de Código:** Padronização rigorosa com **Prettier** e tipagem estrita com **TypeScript 5.9**.
-* **Testes Automatizados:** Estrutura pronta para testes unitários utilizando **Jasmine** e **Karma**.
+
 
 ---
+
