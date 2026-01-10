@@ -1,0 +1,76 @@
+.container{
+  background: linear-gradient(#D2DCFF ,#183EC2 50% ,#D2DCFF);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 25px 50px 25px 50px;
+}
+
+#btn{
+  border:1px solid #A9A9A9;
+  border-radius: 10px;
+  width: 180px;
+  padding: 10px 15px 10px 15px ;
+  margin-bottom: 15px;
+  margin-top: 20px;
+}
+#btn p{
+  font-family: 'Inter',sans-serif;
+  color: black;
+  font-weight: 500;
+}
+h1{
+  font-family: 'Inter',sans-serif;
+  color: black;
+  font-weight: 700;
+  font-size: 80px;
+  margin-bottom: 28px;
+}
+#subject{
+  font-family: 'Inter',sans-serif;
+  color: black;
+  font-weight: 350;
+  font-size: 18px;
+  margin-bottom: 25px;
+}
+
+.btns{
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+  align-items: center;
+}
+
+#get{
+  background-color: black;
+  padding: 10px 15px 10px 15px;
+  border-radius: 10px;
+}
+#get p{
+  font-family: 'Inter',sans-serif;
+  color: white;
+  font-weight: 300;
+  font-size: 15px;
+}
+#learn{
+  display: flex;
+  flex-direction: row;
+  gap: 3;
+
+}
+#learn p{
+  font-family: 'Inter',sans-serif;
+  color: black;
+  font-weight: 400;
+  font-size: 16px;
+}
+#learn img{
+  width: 22px;
+  height: 22px;
+}
+
+#setting{
+  width: 480px;
+  height: 480px;
+;
+}

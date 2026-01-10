@@ -1,0 +1,53 @@
+.container{
+  background: linear-gradient(180deg,#FFFFFF, #D2DCFF);
+  padding: 20px 15px 20px 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.box-left{
+  display: flex;
+  align-items: center;
+}
+
+#made{
+ font-family: 'Inter',sans-serif;
+ margin-right: 8px;
+ font-weight: 300;
+}
+#frame{
+  font-family: 'Inter',sans-serif;
+  font-weight: bold;
+  margin-left: 5px;
+}
+#vetor{
+  margin-left: 5px;
+  width: 15px;
+  height: 25px;
+}
+
+.box-right{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.box-right p{
+  font-family: 'Inter',sans-serif;
+  color: #808080;
+  font-weight: 350;
+}
+#button{
+  padding: 10px 15px 10px 15px;
+  background-color: black;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#title-btn{
+  font-family: 'Inter',sans-serif;
+  color: white;
+  font-weight:400;
+}
