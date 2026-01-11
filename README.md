@@ -1,8 +1,4 @@
-Para criar o arquivo corretamente no seu projeto, você deve criar um novo arquivo na raiz da pasta chamado README.md (a extensão .md significa Markdown).
 
-Aqui está o código formatado pronto para você copiar e colar dentro dele:
-
-Markdown
 
 # 🚀 SaaS Web Design - Modern Platform
 
@@ -27,4 +23,5 @@ O projeto utiliza o que há de mais moderno no desenvolvimento web:
 
 
 ---
+
 
